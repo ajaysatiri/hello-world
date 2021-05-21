@@ -1,3 +1,6 @@
 first line added 
 second line added
+<<<<<<< HEAD
 third line added thru new branch 
+=======
+>>>>>>> 2bb9c850d358c6beae4fb51b4ce0d46db77df7ed
