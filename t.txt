@@ -1,6 +1,12 @@
 first line added 
 second line added
 third line added thru development branch
+<<<<<<< Updated upstream
 new line 
 c2 is added
 
+=======
+new line
+c1 
+ 
+>>>>>>> Stashed changes
